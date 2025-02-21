@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# projects\\Ray2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:controllers\\trackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\migrations\\20240909213201_miga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:migrations\\20240909213201_miga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\migrations\\20240909211941_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:migrations\\20240909211941_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\data\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:data\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\data\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:data\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\data\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:data\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\data\\contextapp\\raykcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:data\\contextapp\\raykcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\data\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:data\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\data\\playlistt_track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:data\\playlistt_track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\data\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:data\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\ray2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:ray2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\migrations\\20240909212206_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:migrations\\20240909212206_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|d:\\c# projects\\ray2\\migrations\\20240909203443_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC932-614E-4237-890A-FB0782FA5783}|Ray2.csproj|solutionrelative:migrations\\20240909203443_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240909213201_miga.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Migrations\\20240909213201_miga.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240909213201_miga.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Migrations\\20240909213201_miga.cs",
+              "RelativeToolTip": "Migrations\\20240909213201_miga.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:32:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240909211941_mig3.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Migrations\\20240909211941_mig3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240909211941_mig3.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Migrations\\20240909211941_mig3.cs",
+              "RelativeToolTip": "Migrations\\20240909211941_mig3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:19:42.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TracksController.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Controllers\\TracksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TracksController.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Controllers\\TracksController.cs*",
+              "RelativeToolTip": "Controllers\\TracksController.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:58:10.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240909203443_mig2.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Migrations\\20240909203443_mig2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240909203443_mig2.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Migrations\\20240909203443_mig2.cs",
+              "RelativeToolTip": "Migrations\\20240909203443_mig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:34:44.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RaykContext.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Data\\ContextApp\\RaykContext.cs",
+              "RelativeDocumentMoniker": "Data\\ContextApp\\RaykContext.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Data\\ContextApp\\RaykContext.cs",
+              "RelativeToolTip": "Data\\ContextApp\\RaykContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:12:48.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Data\\Album.cs",
+              "RelativeDocumentMoniker": "Data\\Album.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Data\\Album.cs",
+              "RelativeToolTip": "Data\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:09:26.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240909212206_mig4.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Migrations\\20240909212206_mig4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240909212206_mig4.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Migrations\\20240909212206_mig4.cs",
+              "RelativeToolTip": "Migrations\\20240909212206_mig4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:22:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Data\\Artist.cs",
+              "RelativeDocumentMoniker": "Data\\Artist.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Data\\Artist.cs",
+              "RelativeToolTip": "Data\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:10:42.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Data\\Track.cs",
+              "RelativeDocumentMoniker": "Data\\Track.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Data\\Track.cs",
+              "RelativeToolTip": "Data\\Track.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA7wBUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:09:10.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:08:50.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\c# projects\\Ray2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T20:15:50.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayListT_Track.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Data\\PlayListT_Track.cs",
+              "RelativeDocumentMoniker": "Data\\PlayListT_Track.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Data\\PlayListT_Track.cs",
+              "RelativeToolTip": "Data\\PlayListT_Track.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:59:46.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:21:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Data\\Favorite.cs",
+              "RelativeDocumentMoniker": "Data\\Favorite.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Data\\Favorite.cs",
+              "RelativeToolTip": "Data\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:11:32.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayList.cs",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Data\\PlayList.cs",
+              "RelativeDocumentMoniker": "Data\\PlayList.cs",
+              "ToolTip": "D:\\c# projects\\Ray2\\Data\\PlayList.cs",
+              "RelativeToolTip": "Data\\PlayList.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:09:54.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ray2.csproj",
+              "DocumentMoniker": "D:\\c# projects\\Ray2\\Ray2.csproj",
+              "RelativeDocumentMoniker": "Ray2.csproj",
+              "ToolTip": "D:\\c# projects\\Ray2\\Ray2.csproj",
+              "RelativeToolTip": "Ray2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T19:08:08.61Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
